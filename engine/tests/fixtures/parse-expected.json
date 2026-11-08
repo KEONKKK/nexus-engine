@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "generated_from": "design/contracts/lead-fixtures.json#parse (canonical: python)",
+  "generated_by": "scoring.parse_text, snapshotted as a regression baseline -- not JS-derived",
+  "items": [
+    {
+      "id": "parse-01",
+      "out": {
+        "service": "אינסטלטור",
+        "area": "גבעתיים",
+        "budget": null,
+        "urgency": "דחוף",
+        "phone": "972522223344",
+        "text": "מחפש אינסטלטור דחוף, נזילה מהברז במטבח. גבעתיים. 052-2223344"
+      }
+    },
+    {
+      "id": "parse-02",
+      "out": {
+        "service": "חשמלאי",
+        "area": "רמת גן",
+        "budget": 300,
+        "urgency": "דחוף",
+        "phone": null,
+        "text": "דרוש חשמלאי בהקדם, קצר בלוח החשמל. רמת גן. תקציב עד 300 ₪."
+      }
+    },
+    {
+      "id": "parse-03",
+      "out": {
+        "service": "ניקיון",
+        "area": "באר שבע",
+        "budget": null,
+        "urgency": "רגיל",
+        "phone": null,
+        "text": "מחפשת מנקה לבית בבאר שבע, ניקיון יסודי לפני פסח. מתי אפשר?"
+      }
+    },
+    {
+      "id": "parse-04",
+      "out": {
+        "service": "שיפוצים",
+        "area": "פתח תקווה",
+        "budget": null,
+        "urgency": "בקרוב",
+        "phone": "972549998888",
+        "text": "צריך קבלן שיפוצים לריצוף ועבודות גבס בפתח תקווה, מחר בבוקר אם אפשר. 054-9998888"
+      }
+    },
+    {
+      "id": "parse-05",
+      "out": {
+        "service": "מיזוג",
+        "area": "חולון",
+        "budget": null,
+        "urgency": "דחוף",
+        "phone": null,
+        "text": "מישהו מכיר טכנאי מזגנים טוב בחולון? המזגן לא מקרר, חם מאוד, עכשיו ממש."
+      }
+    },
+    {
+      "id": "parse-06",
+      "out": {
+        "service": "הובלות",
+        "area": "נתניה",
+        "budget": 2500,
+        "urgency": "רגיל",
+        "phone": null,
+        "text": "מחפש הובלה דירה 3 חדרים מנתניה להרצליה, בעוד שבועיים, תקציב 2500 ש\"ח."
+      }
+    },
+    {
+      "id": "parse-07",
+      "out": {
+        "service": "מנעולן",
+        "area": "אשדוד",
+        "budget": null,
+        "urgency": "דחוף",
+        "phone": "972507778899",
+        "text": "דרוש מנעולן, נתקעתי מחוץ לבית באשדוד, דחוף! 050-7778899"
+      }
+    },
+    {
+      "id": "parse-08",
+      "out": {
+        "service": "יופי",
+        "area": "כפר סבא",
+        "budget": null,
+        "urgency": "בקרוב",
+        "phone": null,
+        "text": "מחפשת קוסמטיקאית למניקור ופדיקור בכפר סבא, השבוע הזה אם יש פנוי."
+      }
+    },
+    {
+      "id": "parse-09",
+      "out": {
+        "service": "כושר",
+        "area": "רעננה",
+        "budget": null,
+        "urgency": "רגיל",
+        "phone": null,
+        "text": "מבקש מאמן כושר אישי ברעננה, פילאטיס פעמיים בשבוע. הצעת מחיר?"
+      }
+    },
+    {
+      "id": "parse-10",
+      "out": {
+        "service": null,
+        "area": null,
+        "budget": null,
+        "urgency": "רגיל",
+        "phone": "97235551234",
+        "text": "צריך ערכת וואטסאפ מוכנה לעסק קטן, יש לי מספר WhatsApp Business. מתי אפשר להתחיל? 03-5551234"
+      }
+    }
+  ]
+}
